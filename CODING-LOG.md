@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2017
+* _006 [23.12.2017](#23122017)
 * _005 [22.12.2017](#22122017)
 * _004 [21.12.2017](#21122017)
 * _003 [20.12.2017](#20122017)
@@ -8,6 +9,11 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2017
+
+- ### 23.12.2017
+  - I created [`pig-latin.js`](https://github.com/akto/algorithms-problem-solving/blob/master/pig-latin.js).
+  ### Pins of the day
+  - I find a new site about [design princibles](https://principles.design) of various web sites, apps etc...
 
 - ### 22.12.2017
   - I finished 1 video on @freeCodeCamp.
