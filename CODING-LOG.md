@@ -12,6 +12,7 @@
 
 - ### 23.12.2017
   - I created [`pig-latin.js`](https://github.com/akto/algorithms-problem-solving/blob/master/pig-latin.js).
+  - I watched one video about computer basics and do one piece of jquery lessons on freecodecamp.
   ### Pins of the day
   - I find a new site about [design princibles](https://principles.design) of various web sites, apps etc...
 
