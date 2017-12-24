@@ -10,10 +10,18 @@
 
 ## 2017
 
+- ### 24.12.2017
+  - I created [`dna-pairing.js`](https://github.com/akto/algorithms-problem-solving/blob/master/dna-pairing.js). It's code for matching the DNA codes.
+  - I watched one video about computer basics.
+  - I probably can't make practices for two days. I will be at field trip.
+  #### Pins of the day
+  - Codrops collective [#376](https://tympanus.net/codrops/collective/collective-376/).
+  - Inspirational designs at [uijar.com](https://uijar.com/).
+
 - ### 23.12.2017
   - I created [`pig-latin.js`](https://github.com/akto/algorithms-problem-solving/blob/master/pig-latin.js).
   - I watched one video about computer basics and do one piece of jquery lessons on freecodecamp.
-  ### Pins of the day
+  #### Pins of the day
   - I find a new site about [design princibles](https://principles.design) of various web sites, apps etc...
 
 - ### 22.12.2017
