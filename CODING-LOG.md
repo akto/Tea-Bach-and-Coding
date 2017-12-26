@@ -13,7 +13,9 @@
 ## 2017
 
 - ### 26.12.2017
-  - Yesterday I was on the field and didn't have access to any computer.
+  - Today I was in the field trip too. I couldn't have time to code when I am in the field.
+  - And tomorrow I'll be in the field till the noon or maybe more.
+  - Yesterday I was in the field and didn't have access to any computer.
   - I created [`missing-letters.js`](https://github.com/akto/algorithms-problem-solving/blob/master/missing-letters.js). It's a code to find missing letters in a letter sequence in alphabetical order.
 
 - ### 24.12.2017
