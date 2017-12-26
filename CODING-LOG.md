@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2017
+* _008 [26.12.2017](#26122017)
 * _007 [24.12.2017](#24122017)
 * _006 [23.12.2017](#23122017)
 * _005 [22.12.2017](#22122017)
@@ -10,6 +11,10 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2017
+
+- ### 26.12.2017
+  - Yesterday I was on the field and didn't have access to any computer.
+  - I created [`missing-letters.js`](https://github.com/akto/algorithms-problem-solving/blob/master/missing-letters.js). It's a code to find missing letters in a letter sequence in alphabetical order.
 
 - ### 24.12.2017
   - I created [`dna-pairing.js`](https://github.com/akto/algorithms-problem-solving/blob/master/dna-pairing.js). It's code for matching the DNA codes.
