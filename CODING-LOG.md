@@ -10,6 +10,13 @@
 * _002 [19.12.2017](#19122017)
 * _001 [18.12.2017](#19122017)
 
+## 2018
+
+- ### 03.01.2018
+  - It's been a week with a lot of distractions. I can't code.
+  - I created [`boo-who.js`](https://github.com/akto/algorithms-problem-solving/blob/master/boo-who.js).
+  - I guess i will start to code again next week. I am in a vacation that I can't reach the comp easily.
+
 ## 2017
 
 - ### 26.12.2017
