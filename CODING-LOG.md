@@ -1,5 +1,8 @@
 # CODING LOG
 ## LOGGED AT
+### 2018
+* _010 [12.01.2018](#12012018)
+* _009 [03.01.2018](#03012018)
 ### 2017
 * _008 [26.12.2017](#26122017)
 * _007 [24.12.2017](#24122017)
@@ -11,6 +14,10 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 12.01.2018
+  - First 12 days of 2018 had a lot of distractions for me. I couldn't code. I need to create a mobile coding environment to use everywhere. Also I need to be ready to these kind of distractions mentally.
+  - I am starting to work on a problem which is about [smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple).
 
 - ### 03.01.2018
   - It's been a week with a lot of distractions. I can't code.
