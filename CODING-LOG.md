@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _011 [15.01.2018](#15012018)
 * _010 [12.01.2018](#12012018)
 * _009 [03.01.2018](#03012018)
 ### 2017
@@ -15,6 +16,11 @@
 
 ## 2018
 
+- ### 15.01.2018
+  - I created [`spinal-tap-case.js`](https://github.com/akto/algorithms-problem-solving/blob/master/spinal-tap-case.js). JS code to convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
+  - Add some functionality to [Pomodoro Clock App](https://codepen.io/egemen/pen/zPzJQp). I tried to make the clock start again after an increase in the session or break amounts. I managed to do it but this time break and session amounts intermixed. So I decided to add an eclectic resetting properity to the application. Now It can be resetted. But clicking creates a new problem. I will look at it later.
+  - When I find time, I have been working on the [`smallest-common-multiple.js`](https://github.com/akto/algorithms-problem-solving/blob/master/smallest-common-multiple.js). Decided to create files before I have finished them. Thus I can keep track the changes that I have done and check the thinking process of mine later when I need.
+  
 - ### 12.01.2018
   - First 12 days of 2018 had a lot of distractions for me. I couldn't code. I need to create a mobile coding environment to use everywhere. Also I need to be ready to these kind of distractions mentally.
   - I am starting to work on a problem which is about [smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple).
