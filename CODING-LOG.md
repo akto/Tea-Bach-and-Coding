@@ -16,6 +16,9 @@
 
 ## 2018
 
+- ### 16.01.2018
+  - I have been working on [`smallest-common-multiple.js`]() recently. Instead of using my own solution to this problem, I found a nice solution on [stackoverflow.com](). I had used an object to count all repeatable primes. But still can't figure out how I can repeat the divisions. I will keep try to figure it out later.
+
 - ### 15.01.2018
   - I created [`spinal-tap-case.js`](https://github.com/akto/algorithms-problem-solving/blob/master/spinal-tap-case.js). JS code to convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
   - Add some functionality to [Pomodoro Clock App](https://codepen.io/egemen/pen/zPzJQp). I tried to make the clock start again after an increase in the session or break amounts. I managed to do it but this time break and session amounts intermixed. So I decided to add an eclectic resetting properity to the application. Now It can be resetted. But clicking creates a new problem. I will look at it later.
