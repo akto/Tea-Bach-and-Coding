@@ -1,6 +1,8 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _013 [17.01.2018](#17012018)
+* _012 [16.01.2018](#16012018)
 * _011 [15.01.2018](#15012018)
 * _010 [12.01.2018](#12012018)
 * _009 [03.01.2018](#03012018)
@@ -16,8 +18,15 @@
 
 ## 2018
 
+- ### 17.01.2018
+  - I created [`finders-keepers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/finders-keepers.js). JS code to looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument)
+  - I created [`drop-it.js`](https://github.com/akto/algorithms-problem-solving/blob/master/drop-it.js). JS code to drop the elements of an array (first argument), starting from the front, until the predicate (second argument) returns `true`.
+  - I solved first one yesterday and `drop-it.js` today. They are easy problems.
+  #### Pins of the day
+  - A pin from yesterday about smallest common multiple solution [`Question about least common multiple problem`](https://stackoverflow.com/questions/31302054/how-to-find-the-least-common-multiple-of-a-range-of-numbers)
+
 - ### 16.01.2018
-  - I have been working on [`smallest-common-multiple.js`]() recently. Instead of using my own solution to this problem, I found a nice solution on [stackoverflow.com](). I had used an object to count all repeatable primes. But still can't figure out how I can repeat the divisions. I will keep try to figure it out later.
+  - I have been working on [`smallest-common-multiple.js`]() recently. Instead of using my own solution to this problem, I found a nice solution on [stackoverflow.com](https://stackoverflow.com/a/31302607/2839009). I had used an object to count all repeatable primes. But still can't figure out how I can repeat the divisions. I will keep try to figure it out later.
 
 - ### 15.01.2018
   - I created [`spinal-tap-case.js`](https://github.com/akto/algorithms-problem-solving/blob/master/spinal-tap-case.js). JS code to convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
