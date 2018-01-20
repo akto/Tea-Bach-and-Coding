@@ -18,6 +18,12 @@
 
 ## 2018
 
+- ### 20.01.2018
+  - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked. 
+
+  #### Not to self: 
+  You need to make focusing exercises. 
+
 - ### 17.01.2018
   - I created [`finders-keepers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/finders-keepers.js). JS code to looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument)
   - I created [`drop-it.js`](https://github.com/akto/algorithms-problem-solving/blob/master/drop-it.js). JS code to drop the elements of an array (first argument), starting from the front, until the predicate (second argument) returns `true`.
