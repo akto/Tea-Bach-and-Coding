@@ -5,6 +5,7 @@
 
 ## LOGGED AT
 ### 2018
+* _014 [20.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#20012018)
 * _013 [17.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#17012018)
 * _012 [16.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#16012018)
 * _011 [15.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#15012018)
