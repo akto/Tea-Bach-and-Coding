@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _014 [20.01.2018](#20012018)
 * _013 [17.01.2018](#17012018)
 * _012 [16.01.2018](#16012018)
 * _011 [15.01.2018](#15012018)
@@ -22,7 +23,7 @@
   - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked. 
 
   #### Not to self: 
-  You need to make focusing exercises. 
+  - You need to make focusing exercises. 
 
 - ### 17.01.2018
   - I created [`finders-keepers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/finders-keepers.js). JS code to looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument)
