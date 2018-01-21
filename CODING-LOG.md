@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _015 [21.01.2018](#21012018)
 * _014 [20.01.2018](#20012018)
 * _013 [17.01.2018](#17012018)
 * _012 [16.01.2018](#16012018)
@@ -18,6 +19,9 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 21.01.2018
+  - I created [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-digits.js). I recently start this algorithm today.
 
 - ### 20.01.2018
   - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked. 
