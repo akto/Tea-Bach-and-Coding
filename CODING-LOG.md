@@ -21,8 +21,8 @@
 ## 2018
 
 - ### 21.01.2018
-  - I created [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-digits.js). I recently start this algorithm today.
-  - I finished [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-digits.js). It's not hard to solve. Actually I looked for how I can translate binary to characters and find a solution after that.
+  - I created [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-agents.js). I recently start this algorithm today.
+  - I finished [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-agents.js). It's not hard to solve. Actually I looked for how I can translate binary to characters and find a solution after that.
   #### Pins of the day
   - I used [`String.fromCharCode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode).
 
