@@ -22,6 +22,9 @@
 
 - ### 21.01.2018
   - I created [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-digits.js). I recently start this algorithm today.
+  - I finished [`binary-digits.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-digits.js). It's not hard to solve. Actually I looked for how I can translate binary to characters and find a solution after that.
+  #### Pins of the day
+  - I used [`String.fromCharCode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode).
 
 - ### 20.01.2018
   - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked. 
