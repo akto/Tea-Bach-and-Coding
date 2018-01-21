@@ -23,6 +23,7 @@
 - ### 21.01.2018
   - I created [`binary-agents.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-agents.js). I recently start this algorithm today.
   - I finished [`binary-agents.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-agents.js). It's not hard to solve. Actually I looked for how I can translate binary to characters and find a solution after that.
+  - I created [`everything-be-true.js`](https://github.com/akto/algorithms-problem-solving/blob/master/everything-be-true.js). I am recently working on that. And I finished it. ( at 22:55 ). It was an easy one too. And today at least I could focus for some time.
   #### Pins of the day
   - I used [`String.fromCharCode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode).
 
