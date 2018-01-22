@@ -25,7 +25,7 @@
   - I've created [`arguments-optional.js`](https://github.com/akto/algorithms-problem-solving/blob/master/arguments-optional.js) recently at 19:43.
   - I've finished it at 23:43. This one take a little bit time because I couldn't focus for sometime.
   #### Pins of the day
-  - I need to learn more about clousers [`Javascript Closures`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+  - I need to learn more about closures [`Javascript Closures`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
 - ### 21.01.2018
   - I created [`binary-agents.js`](https://github.com/akto/algorithms-problem-solving/blob/master/binary-agents.js). I recently start this algorithm today.
