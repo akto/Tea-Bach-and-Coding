@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _016 [24.01.2018](#24012018)
 * _016 [22.01.2018](#22012018)
 * _015 [21.01.2018](#21012018)
 * _014 [20.01.2018](#20012018)
@@ -20,6 +21,9 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 24.01.2108
+  - I created [`validate-us-phone-numbers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/validate-us-phone-numbers.js).
 
 - ### 22.01.2018
   - I've created [`arguments-optional.js`](https://github.com/akto/algorithms-problem-solving/blob/master/arguments-optional.js) recently at 19:43.
