@@ -1,10 +1,13 @@
 # TEA BACH AND CODING 
 *"Coding while drinking tea and listening Bach. Perfect way of living."*
 
+It's not easy to focus on code when you are working in a non-programming work. 
+
 ### Look at my [`CODING LOG`](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md)
 
 ## LOGGED AT
 ### 2018
+* _019 [26.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#26012018)
 * _018 [25.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#25012018)
 * _017 [24.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#24012018)
 * _016 [22.01.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#22012018)
