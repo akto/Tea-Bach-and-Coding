@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _020 [27.01.2018](#27012018)
 * _019 [26.01.2018](#26012018)
 * _018 [25.01.2018](#25012018)
 * _017 [24.01.2018](#24012018)
@@ -23,6 +24,9 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 27.01.2018
+  - I Kept playing with regex patterns.
 
 - ### 26.01.2018
   - I only try a few regex patterns for [`validate-us-phone-numbers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/validate-us-phone-numbers.js). Regular Expressions are very tricky subject and finding the right pattern for your search is not easy. I need to focus more on this subject.
