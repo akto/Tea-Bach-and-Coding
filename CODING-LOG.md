@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _021 [29.01.2018](#29012018)
 * _020 [27.01.2018](#27012018)
 * _019 [26.01.2018](#26012018)
 * _018 [25.01.2018](#25012018)
@@ -24,6 +25,10 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 29.01.2018
+  - Still playing with regular expressions. 
+  - I don't have time to code nowadays. I've been very busy in my daily job.
 
 - ### 27.01.2018
   - I Kept playing with regex patterns.
