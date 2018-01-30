@@ -26,6 +26,9 @@
 
 ## 2018
 
+- ### 30.01.2018
+  - I was at the field. So I don't have any time to code or do anything else.
+
 - ### 29.01.2018
   - Still playing with regular expressions. 
   - I don't have time to code nowadays. I've been very busy in my daily job.
