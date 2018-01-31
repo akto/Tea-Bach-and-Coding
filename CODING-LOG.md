@@ -1,6 +1,8 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _023 [31.01.2018](#31012018)
+* _022 [30.01.2018](#30012018)
 * _021 [29.01.2018](#29012018)
 * _020 [27.01.2018](#27012018)
 * _019 [26.01.2018](#26012018)
@@ -25,6 +27,10 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 31.01.2018
+  - I finished the [`validate-us-phone-numbers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/validate-us-phone-numbers.js) finally. Actually I don't like my solution. I need to use 3 regExp pattern to solve it. I need to learn more about Regular Expressions.
+  - Today is busy in my daily job. Tomorrow I will be in the field again.
 
 - ### 30.01.2018
   - I was at the field. So I don't have any time to code or do anything else.
