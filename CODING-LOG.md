@@ -1,6 +1,8 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _025 [02.02.2018](#02022018)
+* _024 [01.02.2018](#01022018)
 * _023 [31.01.2018](#31012018)
 * _022 [30.01.2018](#30012018)
 * _021 [29.01.2018](#29012018)
@@ -27,6 +29,12 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 02.02.2018
+  - I finished the [`record-collection.js`](https://github.com/akto/algorithms-problem-solving/blob/master/record-collection.js). It's quite easy.
+
+- ### 01.02.2018
+  - I created [`record-collection.js`](https://github.com/akto/algorithms-problem-solving/blob/master/record-collection.js). Not finished only created the file.
 
 - ### 31.01.2018
   - I finished the [`validate-us-phone-numbers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/validate-us-phone-numbers.js) finally. Actually I don't like my solution. I need to use 3 regExp pattern to solve it. I need to learn more about Regular Expressions.
