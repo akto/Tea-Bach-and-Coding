@@ -1,6 +1,7 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _026 [03.02.2018](#03022018)
 * _025 [02.02.2018](#02022018)
 * _024 [01.02.2018](#01022018)
 * _023 [31.01.2018](#31012018)
@@ -29,6 +30,9 @@
 * _001 [18.12.2017](#19122017)
 
 ## 2018
+
+- ### 03.02.2018
+  - I created [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
 - ### 02.02.2018
   - I finished the [`record-collection.js`](https://github.com/akto/algorithms-problem-solving/blob/master/record-collection.js). It's quite easy.
