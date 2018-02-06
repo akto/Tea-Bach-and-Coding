@@ -7,6 +7,9 @@ It's not easy to focus on code when you are working in a non-programming job.
 
 ## LOGGED AT
 ### 2018
+* _029 [06.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#06022018)
+* _028 [05.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#05022018)
+* _027 [04.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#04022018)
 * _026 [03.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#03022018)
 * _025 [02.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#02022018)
 * _024 [01.02.2018](https://github.com/akto/Tea-Bach-and-Coding/blob/master/CODING-LOG.md#01022018)
