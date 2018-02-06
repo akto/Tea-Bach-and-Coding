@@ -35,7 +35,11 @@
 ## 2018
 
 - ### 06.02.108
-  - I finished [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js). I used some codes from my [`unite-unique.js`]. 
+  - I finished [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js). I used some codes from my [`unite-unique.js`].
+  - I started a new plan. It's relative and strict. ( 10 mins work and 5 mins break, I do this loop for 3 times. Then I give a long break such as 10-15 mins. Then do this loop 3 times again. And it's strict. If working or break session paused for an important reason - like tasks of daily job- It must begin from the same place that it paused. Thus It is a program with importance and priority. I must do the most important task in the begining.)
+  - New program has 10 or 15 mins work sessions because I can't focus more than 15 mins to anything. I know myself and I should create a routine that reflect my personal features.
+  #### Pins of the day
+  - I used [`Array.prototype.splice`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), [`Array.prototype.map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) and [`Array.prototype.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) in my [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
   
 - ### 05.02.108
   - I messing out on [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
