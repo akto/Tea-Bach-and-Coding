@@ -1,6 +1,9 @@
 # CODING LOG
 ## LOGGED AT
 ### 2018
+* _029 [06.02.2018](#06022018)
+* _028 [05.02.2018](#05022018)
+* _027 [04.02.2018](#04022018)
 * _026 [03.02.2018](#03022018)
 * _025 [02.02.2018](#02022018)
 * _024 [01.02.2018](#01022018)
@@ -31,6 +34,15 @@
 
 ## 2018
 
+- ### 06.02.108
+  - I finished [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js). I used some codes from my [`unite-unique.js`]. 
+  
+- ### 05.02.108
+  - I messing out on [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
+
+- ### 04.02.108
+  - I couldn't work today. It was a day which passed in hospital.
+  
 - ### 03.02.2018
   - I created [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
