@@ -34,6 +34,9 @@
 
 ## 2018
 
+- ### 07.02.2018
+  - I create [`exact-change.js`](https://github.com/akto/algorithms-problem-solving/blob/master/exact-change.js). Today has been busy.
+
 - ### 06.02.108
   - I finished [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js). I used some codes from my [`unite-unique.js`].
   - I started a new plan. It's relative and strict. ( 10 mins work and 5 mins break, I do this loop for 3 times. Then I give a long break such as 10-15 mins. Then do this loop 3 times again. And it's strict. If working or break session paused for an important reason - like tasks of daily job- It must begin from the same place that it paused. Thus It is a program with importance and priority. I must do the most important task in the begining.)
