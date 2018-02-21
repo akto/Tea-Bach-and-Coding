@@ -35,6 +35,10 @@
 
 ## 2018
 
+- ### 21.02.2018
+  #### Pins of the day
+  - When I searched for mobile design principles, I found this [Principles of Mobile App Design: Introduction](https://www.thinkwithgoogle.com/marketing-resources/experience-design/principles-of-mobile-app-design-introduction/) Google tutorial series. It should be considered as a fundamental course for mobile design. [`mobile`]
+
 - ### 07.02.2018
   - I create [`exact-change.js`](https://github.com/akto/algorithms-problem-solving/blob/master/exact-change.js). Today has been busy.
 
