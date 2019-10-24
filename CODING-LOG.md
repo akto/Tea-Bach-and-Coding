@@ -34,6 +34,11 @@
 * _002 [19.12.2017](#19122017)
 * _001 [18.12.2017](#19122017)
 
+## 2019
+
+- ### 24.10.2019
+  - It's been long time not to write here. We had been in an intense period of construction works. But from now on, I will try to add some bits to my coding skills. Let's see.
+
 ## 2018
 
 - ### 22.03.2018
