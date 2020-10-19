@@ -1,7 +1,9 @@
 # CODING LOG
 ## LOGGED AT
 ### 2020
+* _033 [19.10.2020](#19102020)
 ### 2019
+* _032 [24.10.2019](#24102019)
 ### 2018
 * _031 [22.03.2018](#22032018)
 * _030 [07.02.2018](#07022018)
@@ -36,6 +38,11 @@
 * _002 [19.12.2017](#19122017)
 * _001 [18.12.2017](#19122017)
 
+## 2020
+
+- ### 19.10.2020
+  - Again It's been long time. Now I am working in an European Union Railway Construction Project and It tooks a lot of time of me. It's even hard to find time for yourself. So till now I've been lost my way. But I am always looking for returning to my love -programming-.
+
 ## 2019
 
 - ### 24.10.2019
@@ -62,13 +69,13 @@
   - Tonight I've remembered the [Project Euler](https://projecteuler.net). And give it a look. I've seen that I missed a problem in between first 10 problem and decided to solve it. It was an easy palindrome problem. I had a script to check if a value is palindrome. I used it and create [`projecteuler-largest-palindrome.js`](https://github.com/akto/algorithms-problem-solving/blob/master/projecteuler-largest-palindrome.js).
   #### Pins of the day
   - I used [`Array.prototype.splice`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), [`Array.prototype.map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) and [`Array.prototype.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) in my [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
-  
+
 - ### 05.02.108
   - I messing out on [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
 - ### 04.02.108
   - I couldn't work today. It was a day which passed in hospital.
-  
+
 - ### 03.02.2018
   - I created [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
@@ -86,7 +93,7 @@
   - I was at the field. So I don't have any time to code or do anything else.
 
 - ### 29.01.2018
-  - Still playing with regular expressions. 
+  - Still playing with regular expressions.
   - I don't have time to code nowadays. I've been very busy in my daily job.
 
 - ### 27.01.2018
@@ -116,10 +123,10 @@
   - I used [`String.fromCharCode`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode).
 
 - ### 20.01.2018
-  - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked. 
+  - I created [`steamroller.js`](https://github.com/akto/algorithms-problem-solving/blob/master/steamroller.js). JS code to flatten arrays. I started to work on it yesterday but finished tonight. Sometimes I have some difficulties about focusing to the subject that I worked.
 
-  #### Not to self: 
-  - You need to make focusing exercises. 
+  #### Not to self:
+  - You need to make focusing exercises.
 
 - ### 17.01.2018
   - I created [`finders-keepers.js`](https://github.com/akto/algorithms-problem-solving/blob/master/finders-keepers.js). JS code to looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument)
@@ -135,7 +142,7 @@
   - I created [`spinal-tap-case.js`](https://github.com/akto/algorithms-problem-solving/blob/master/spinal-tap-case.js). JS code to convert a string to spinal case. Spinal case is all-lowercase-words-joined-by-dashes.
   - Add some functionality to [Pomodoro Clock App](https://codepen.io/egemen/pen/zPzJQp). I tried to make the clock start again after an increase in the session or break amounts. I managed to do it but this time break and session amounts intermixed. So I decided to add an eclectic resetting properity to the application. Now It can be resetted. But clicking creates a new problem. I will look at it later.
   - When I find time, I have been working on the [`smallest-common-multiple.js`](https://github.com/akto/algorithms-problem-solving/blob/master/smallest-common-multiple.js). Decided to create files before I have finished them. Thus I can keep track the changes that I have done and check the thinking process of mine later when I need.
-  
+
 - ### 12.01.2018
   - First 12 days of 2018 had a lot of distractions for me. I couldn't code. I need to create a mobile coding environment to use everywhere. Also I need to be ready to these kind of distractions mentally.
   - I am starting to work on a problem which is about [smallest common multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple).
@@ -171,7 +178,7 @@
   - I finished 1 video on @freeCodeCamp.
   - I created [`search-and-replace.js`](https://github.com/akto/algorithms-problem-solving/blob/master/search-and-replace.js). JS code to replace provided values with arguments in the sentences. It's a @freeodecamp algorithm challange.
   - I solved an adventofcode challange and create [`advent-sum-of-diff-in-rows.js`](https://github.com/akto/algorithms-problem-solving/blob/master/advent-sum-of-diff-in-rows.js). This script can be used to find accumulation of the sum of differences of max and min values in rows.
-  - I'll use `advent-` prefix to indicate the scripts of solutions to [adventofcode.com](http://adventofcode.com) challanges. It's too late for @freeCodeCamp codes. 
+  - I'll use `advent-` prefix to indicate the scripts of solutions to [adventofcode.com](http://adventofcode.com) challanges. It's too late for @freeCodeCamp codes.
   - In js to find the max value of an array. Array.reduce() can be used. When you return a or b in the reduce method it checks every value in the array with elaminate the min one of the two value. Such as -> ( [1,2,3,7,4,5,6] --> (1,2),(2) -> (2,3),(3) -> (3,7),(7) -> (7,4),(7) -> (7,5)(7) ....
    #### Pins of the day
   - Methods that I used today: [`Math.max()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max) - [`Math.min()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
@@ -201,10 +208,10 @@
   - After first version I will improve the [pomodoro clock](https://codepen.io/egemen/pen/zPzJQp) eventually.
   #### Pins of the day
   - I like codrops collective. But I first to mention about [30 Seconds of Code](https://github.com/Chalarangelo/30-seconds-of-code). It has very nice code snippets.
-  - Today I look up to [Array.reduce() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) in MDN Web Docs. I used it to sum the only odd values in a fibonacci sequence. 
+  - Today I look up to [Array.reduce() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) in MDN Web Docs. I used it to sum the only odd values in a fibonacci sequence.
   - Also I use [Array.pop() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop). I just look up to it because of don't make a syntax mistake and be sure about it remove only the last element of the array.
   - Codrops Collective [#374](https://tympanus.net/codrops/collective/collective-374/)
-  
+
 - ### 19.12.2017
   - I need to deal with my daily job tasks most of the day again.
   - There is a meeting in the deparment about surveying. But at least I've created this log.
@@ -213,4 +220,3 @@
 
 - ### 18.12.2017
   - I couldn't code today. Because of my daily job tasks.
-
