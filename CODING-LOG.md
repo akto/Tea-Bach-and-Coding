@@ -1,5 +1,7 @@
 # CODING LOG
 ## LOGGED AT
+### 2024
+* _34 [26.11.2024](#24-11-26)
 ### 2020
 * _033 [19.10.2020](#19102020)
 ### 2019
@@ -38,6 +40,12 @@
 * _002 [19.12.2017](#19122017)
 * _001 [18.12.2017](#19122017)
 
+## 2024
+ - ### 24-11-26
+   - **New beginnings**. After a long time I can't ignore the urge to be in developer world again. I'm starting over in little pieces.
+   - If you want to create a single object without inheritance, like configuration, use object literals in js. You don't need multiple instances of same object. So, it is the reason for object literal is here.
+   - [`Instagram Post for a Simple Bug`](https://www.instagram.com/p/DC0raO0tIiO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) This bug make me wonder around for couple of minutes. But, If you put parentheses after you call a callback in setInterval, it runs immediately once and it doesn't run with every repetative call by declared time interval.
+     
 ## 2020
 
 - ### 19.10.2020
