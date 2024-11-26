@@ -1,44 +1,11 @@
 # CODING LOG
 ## LOGGED AT
-### 2024
-* _34 [26.11.2024](#24-11-26)
-### 2020
-* _033 [19.10.2020](#19102020)
-### 2019
-* _032 [24.10.2019](#24102019)
-### 2018
-* _031 [22.03.2018](#22032018)
-* _030 [07.02.2018](#07022018)
-* _029 [06.02.2018](#06022018)
-* _028 [05.02.2018](#05022018)
-* _027 [04.02.2018](#04022018)
-* _026 [03.02.2018](#03022018)
-* _025 [02.02.2018](#02022018)
-* _024 [01.02.2018](#01022018)
-* _023 [31.01.2018](#31012018)
-* _022 [30.01.2018](#30012018)
-* _021 [29.01.2018](#29012018)
-* _020 [27.01.2018](#27012018)
-* _019 [26.01.2018](#26012018)
-* _018 [25.01.2018](#25012018)
-* _017 [24.01.2018](#24012018)
-* _016 [22.01.2018](#22012018)
-* _015 [21.01.2018](#21012018)
-* _014 [20.01.2018](#20012018)
-* _013 [17.01.2018](#17012018)
-* _012 [16.01.2018](#16012018)
-* _011 [15.01.2018](#15012018)
-* _010 [12.01.2018](#12012018)
-* _009 [03.01.2018](#03012018)
-### 2017
-* _008 [26.12.2017](#26122017)
-* _007 [24.12.2017](#24122017)
-* _006 [23.12.2017](#23122017)
-* _005 [22.12.2017](#22122017)
-* _004 [21.12.2017](#21122017)
-* _003 [20.12.2017](#20122017)
-* _002 [19.12.2017](#19122017)
-* _001 [18.12.2017](#19122017)
+### [Go to 2024 Logs](#2024-1)
+### [Go to 2020 Logs](#2020-1)
+### [Go to 2019 Logs](#2019-1)
+### [Go to 2018 Logs](#2018-1)
+### [Go to 2017 Logs](#2017-1)
+
 
 ## 2024
  - ### 24-11-26
@@ -70,7 +37,7 @@
 - ### 07.02.2018
   - I create [`exact-change.js`](https://github.com/akto/algorithms-problem-solving/blob/master/exact-change.js). Today has been busy.
 
-- ### 06.02.108
+- ### 06.02.2018
   - I finished [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js). I used some codes from my [`unite-unique.js`].
   - I started a new plan. It's relative and strict. ( 10 mins work and 5 mins break, I do this loop for 3 times. Then I give a long break such as 10-15 mins. Then do this loop 3 times again. And it's strict. If working or break session paused for an important reason - like tasks of daily job- It must begin from the same place that it paused. Thus It is a program with importance and priority. I must do the most important task in the begining.)
   - New program has 10 or 15 mins work sessions because I can't focus more than 15 mins to anything. I know myself and I should create a routine that reflect my personal features.
@@ -78,7 +45,7 @@
   #### Pins of the day
   - I used [`Array.prototype.splice`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice), [`Array.prototype.map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) and [`Array.prototype.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) in my [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
-- ### 05.02.108
+- ### 05.02.2018
   - I messing out on [`symmetric-difference.js`](https://github.com/akto/algorithms-problem-solving/blob/master/symmetric-difference.js).
 
 - ### 04.02.108
