@@ -1,10 +1,10 @@
 # CODING LOG
 ## LOGGED AT
-### [Go to 2024 Logs](#2024-1)
-### [Go to 2020 Logs](#2020-1)
-### [Go to 2019 Logs](#2019-1)
-### [Go to 2018 Logs](#2018-1)
-### [Go to 2017 Logs](#2017-1)
+### [Go to 2024 Logs](#2024)
+### [Go to 2020 Logs](#2020)
+### [Go to 2019 Logs](#2019)
+### [Go to 2018 Logs](#2018)
+### [Go to 2017 Logs](#2017)
 
 
 ## 2024
