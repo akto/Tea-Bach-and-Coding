@@ -13,6 +13,7 @@
    - If you want to create a single object without inheritance, like configuration, use object literals in js. You don't need multiple instances of same object. So, it is the reason for object literal is here.
    - [`Instagram Post for a Simple Bug`](https://www.instagram.com/p/DC0raO0tIiO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) This bug make me wonder around for couple of minutes. But, If you put parentheses after you call a callback in setInterval, it runs immediately once and it doesn't run with every repetative call by declared time interval.
    - I had an ugly solution for toggling 2 options. It's a brute force if and else statement just I used shorter if statement. Then I thought to change it for better solution. I had something in my mind but I asked chatGPT to generate me a code for toggling 2 options. I wanted it versatile and one line solution. So the solution that it gave me is the solution I have thought but I need to give credit to AI on this. I have created a [`toggleState.js`](https://github.com/akto/library/blob/master/js/toggleState.js) file. I will use it later on my pomodoro app.
+   - Created and wrote a new [`newPomodoro.js`](https://github.com/akto/library/blob/master/js/newPomodoro.js) file. It's not complete.
      
 ## 2020
 
