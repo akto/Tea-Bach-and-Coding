@@ -8,6 +8,10 @@
 
 
 ## 2024
+ - ### 24-11-27
+   - I understand that I can't implement a separate timer on my pomodoro application because I need to manipulate the countdown value and it can be done only inside the setInterval (or setTimeout). I have maden a little changes in my [`newPomodoro.js`](https://github.com/akto/library/blob/master/js/newPomodoro.js) file. But I can get rid of it completely later. My old code seems more relevant now.
+   - Tomorrow I need to check both pomodoro code and keep only one for the sake of efficiency. I need to modify some codes in my old code. Maybe add a better alarm notification method and change toggling status method.
+   
  - ### 24-11-26
    - **New beginnings**. After a long time I can't ignore the urge to be in developer world again. I'm starting over in little pieces.
    - If you want to create a single object without inheritance, like configuration, use object literals in js. You don't need multiple instances of same object. So, it is the reason for object literal is here.
