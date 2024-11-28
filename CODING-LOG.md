@@ -9,7 +9,7 @@
 
 ## 2024
  - ### 24-11-28
-   - I've made some changes in my old [`pomodoro.js`](https://github.com/akto/library/blob/master/js/pomodoro.js) file. I've changed changeState to toggleStatus method. I create a new resume method because changing on-off with a pause method is non-sense. I bing `this` keyword to make it run inside setInterval function.
+   - I've made some changes in my old [`pomodoro.js`](https://github.com/akto/library/blob/master/js/pomodoro.js) file. I've changed changeState to toggleStatus method. I create a new resume method because changing on-off with a pause method is non-sense. I bind `this` keyword to make it run inside setInterval function.
      
  - ### 24-11-27
    - I understand that I can't implement a separate timer on my pomodoro application because I need to manipulate the countdown value and it can be done only inside the setInterval (or setTimeout). I have maden a little changes in my [`newPomodoro.js`](https://github.com/akto/library/blob/master/js/newPomodoro.js) file. But I can get rid of it completely later. My old code seems more relevant now.
