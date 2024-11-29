@@ -8,6 +8,9 @@
 
 
 ## 2024
+ - ### 24-11-29
+   - I've code a simple Array prototype in [`Array.prototype.count.js`](https://github.com/akto/library/blob/master/js/Array.prototype.count.js). It counts the given value in an array and return a number of matched items. If there is no match then it returns 0.
+     
  - ### 24-11-28
    - I've made some changes in my old [`pomodoro.js`](https://github.com/akto/library/blob/master/js/pomodoro.js) file. I've changed changeState to toggleStatus method. I create a new resume method because changing on-off with a pause method is non-sense. I bind `this` keyword to make it run inside setInterval function.
    - fix a bug, this bug makes the start function only loop through the existing status after you run `stop` function. But I would like to start over to the time loop with the settings we have. 
