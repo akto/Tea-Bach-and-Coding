@@ -8,6 +8,9 @@
 
 
 ## 2024
+ - ### 24-11-30
+   - I’ve created a code [`urlOpener.js`](https://github.com/akto/library/blob/master/js/urlOpener) to open URLs of search engines, dictionaries, video search engines, etc. with a search query. I also created a mess opener for selected engines.
+   - Added a snippet for css animations using webframes to [`snippets.css`](https://github.com/akto/library/blob/master/css/snippets.css).
  - ### 24-11-29
    - I've code a simple Array prototype in [`Array.prototype.count.js`](https://github.com/akto/library/blob/master/js/Array.prototype.count.js). It counts the given value in an array and return a number of matched items. If there is no match then it returns 0.
      
