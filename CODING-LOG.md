@@ -11,6 +11,8 @@
  - ### 24-12-1
    - **An Issue for urlOpener:** I noticed that urlOper for selected engines is not working as I wanted it to I thought there was a bug, but it is related to pop-up blocking. It would be best if you permitted pop-ups to open. So, there is no problem with urlOpener. Just a reminder while using it.
    - First day of Advent of Code Challenges. I firstly solved both questions of the day with Excel. Because it is about lists, comparisons and sums, etc... But after I got 2 stars, I also code a solution with js. The file is [`AOC_1_difference_between_arrays.js`](https://github.com/akto/algorithms-problem-solving/blob/master/AOC_1_difference_between_arrays.js)
+   - Js code for 2nd question [`AOC_1_2_sum_multiples.js`](https://github.com/akto/algorithms-problem-solving/blob/master/AOC_1_2_sum_multiples.js).
+     
  - ### 24-11-30
    - I’ve created a code [`urlOpener.js`](https://github.com/akto/library/blob/master/js/urlOpener) to open URLs of search engines, dictionaries, video search engines, etc. with a search query. I also created a mess opener for selected engines.
    - Added a snippet for css animations using webframes to [`snippets.css`](https://github.com/akto/library/blob/master/css/snippets.css).
