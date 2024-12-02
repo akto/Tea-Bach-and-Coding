@@ -8,6 +8,11 @@
 
 
 ## 2024
+ - ### 24-12-2
+   - Today I've cheated a little bit. I use AI for the most of the coding part. I just thought about the solution and then ask for the code about required functions to AI. It works perfectly. The capabilities of AI is already amazing.
+   - I've got 2 stars in the second day of Advent of Code.
+   - Today, I will be driving 6-7 hours after 1 pm. So, I don't know if I have enough energy to code or read at night. We will see.
+     
  - ### 24-12-1
    - **An Issue for urlOpener:** I noticed that urlOper for selected engines is not working as I wanted it to I thought there was a bug, but it is related to pop-up blocking. It would be best if you permitted pop-ups to open. So, there is no problem with urlOpener. Just a reminder while using it.
    - First day of Advent of Code Challenges. I firstly solved both questions of the day with Excel. Because it is about lists, comparisons and sums, etc... But after I got 2 stars, I also code a solution with js. The file is [`AOC_1_difference_between_arrays.js`](https://github.com/akto/algorithms-problem-solving/blob/master/AOC_1_difference_between_arrays.js)
