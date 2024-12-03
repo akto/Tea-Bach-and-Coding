@@ -8,6 +8,12 @@
 
 
 ## 2024
+ - ### 24-12-3
+   - Today was a busy day with my current job. Very little time to working on coding. But I did.
+   - I've created [`escapeInput.js`](https://github.com/akto/library/blob/master/js/escapeInput.js). It was a code part to make the Advent of Code input into a variable or constant in js.
+   - I've solved 3rd day puzzles. But I used AI in second question because I didn't have time in that moment.
+   - Today's challenge is all about regular expression. Also, string manipulation was needed.
+     
  - ### 24-12-2
    - Today I've cheated a little bit. I use AI for the most of the coding part. I just thought about the solution and then ask for the code about required functions to AI. It works perfectly. The capabilities of AI is already amazing.
    - I've got 2 stars in the second day of Advent of Code.
