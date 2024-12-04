@@ -8,6 +8,11 @@
 
 
 ## 2024
+ - ### 24-12-4
+   - Today was a busy day. I have driven for 7 hours. But I had some time for advent of code challenge. The challenge was about searching patterns in 8 directions inside a cubic array. Firstly, I tried to solve it with reg exp and iteration of grid but it's almost impossible to implement it fastly. Then I wrote a code for searching a word in 8 directions. It was more relevant.
+   - Second question is harder for me. I couldn't come up with a right answer and first question actually not much related with first one. But then it's so obvious that it is related with the middle letter and pattern around it diagonally. So, I need to find every "A" (MAS || SAM) and check it for 4 possible pattern in 2 directions (top-left and top-right to bottom-left and bottom-right). Then it's iteration.
+   - Codes are in [`snippets.js`](https://github.com/akto/library/blob/master/js/snippets.js) file.
+     
  - ### 24-12-3
    - Today was a busy day with my current job. Very little time to working on coding. But I did.
    - I've created [`escapeInput.js`](https://github.com/akto/library/blob/master/js/escapeInput.js). It was a code part to make the Advent of Code input into a variable or constant in js.
