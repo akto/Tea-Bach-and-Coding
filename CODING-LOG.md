@@ -10,6 +10,7 @@
 ## 2024
  - ### 24-12-23
    - From 6 to 16 of December, I was in Wien and Prague for vacation. So, I couldn't write any entry here. After I returned to work, It was a crazy week at work. There were high rank visits to site so, I needed to work till 10 p.m. I lost some motivation. But I hope to gain it back.
+   - Started to hackerrank challenges. First 5 challenges are so easy. So, I just want to pass those stage fast and start to focus on improving my coding skills with data structures, concepts etc...
  - ### 24-12-5
    - Today was a busy day. But I had enough time to solve the advent of code challenge. Unfortunately, I couldn't come up with a solution. Today was a failure for advent of code. I stuck and couldn't progress. But I think I can do better with a better environment that I can focus.
    - I wrote code pieces to my dev journal.
