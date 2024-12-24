@@ -8,6 +8,8 @@
 
 
 ## 2024
+ - ### 24-12-24
+   - Today I've continued to Hackerrank challenges. It's still easy but I struggled with some brute force solutions. I wanted to write a better code but I couldn't focus on the solution so I decided to solve it firstly with brute force. In the end a working solution was needed. I did it. I didn't like my code but it works well with all test cases. Then I started to think about a better solution and I can manage to write a better code. At least for my level. It's a sum calculation of a matrix with an hourglass pattern. File is [hourGlassSum.js](https://github.com/akto/library/blob/master/js/hourGlassSum.js).
  - ### 24-12-23
    - From 6 to 16 of December, I was in Wien and Prague for vacation. So, I couldn't write any entry here. After I returned to work, It was a crazy week at work. There were high rank visits to site so, I needed to work till 10 p.m. I lost some motivation. But I hope to gain it back.
    - Started to hackerrank challenges. First 5 challenges are so easy. So, I just want to pass those stage fast and start to focus on improving my coding skills with data structures, concepts etc...
